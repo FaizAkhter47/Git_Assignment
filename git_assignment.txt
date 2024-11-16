@@ -1,6 +1,4 @@
-Here are the Git commands for each task step-by-step:
 
----
 
 ### **Task 1**
 #### **Steps to Create a Folder, Add Files, Stage, Commit, and Push**
@@ -232,6 +230,4 @@ Here are the Git commands for each task step-by-step:
    git merge hotfix
    ```
 
----
 
-Let me know if you need further clarification! 😊
